@@ -1,0 +1,7 @@
+D:\Development\Web Development Projects\.NET\Calculator\bin\Debug\Calculator.dll.config
+D:\Development\Web Development Projects\.NET\Calculator\bin\Debug\Calculator.dll
+D:\Development\Web Development Projects\.NET\Calculator\bin\Debug\Calculator.pdb
+D:\Development\Web Development Projects\.NET\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Development\Web Development Projects\.NET\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Development\Web Development Projects\.NET\Calculator\obj\Debug\Calculator.dll
+D:\Development\Web Development Projects\.NET\Calculator\obj\Debug\Calculator.pdb
